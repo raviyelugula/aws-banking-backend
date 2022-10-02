@@ -1,3 +1,3 @@
 # aws-banking-backend
-![DataModel](datamodel.jpg)
-![Cloud Architecture](architecture.jpg)
+![DataModel](datamodel.png)
+![Cloud Architecture](architecture.png)
